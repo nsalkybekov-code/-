@@ -1,0 +1,6 @@
+{
+  "name": "Academic Workload Manager",
+  "description": "System for academic workload calculation and RUP processing with color-coded data visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
